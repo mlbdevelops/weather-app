@@ -112,8 +112,8 @@ async function fetchWeather() {
 }
 
 document.getElementById('fb').addEventListener("click", function() {
-    window.location.href = 'https://www.facebook.com/mlb.loriginal'
+    window.location.href = 'https://www.facebook.com/profile.php?id=61572398671562'
 })
 document.getElementById('insta').addEventListener("click", function() {
-  window.location.href = 'https://www.instagram.com/mlb_loriginal/'
+  window.location.href = 'https://www.instagram.com/mlb_loriginal'
 })
